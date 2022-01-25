@@ -1,0 +1,6 @@
+.tabs-container {
+  padding: 1rem;
+  border: 1px solid rgb(216, 216, 216);
+  border-radius: 0.5rem;
+  flex-grow: 1;
+}
